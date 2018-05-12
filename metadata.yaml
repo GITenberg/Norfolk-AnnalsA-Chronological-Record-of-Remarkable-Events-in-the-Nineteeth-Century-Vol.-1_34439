@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37024'
     url: http://www.gutenberg.org/2009/agents/37024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34439#Norfolk-AnnalsA-Chronological-Record-of-Remarkable-Events-in-the-Nineteeth-Century-Vol.-1
 gutenberg_issued: '2010-11-25'
 gutenberg_type: Text
 identifiers:
